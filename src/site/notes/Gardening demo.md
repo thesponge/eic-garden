@@ -9,4 +9,4 @@
     
 -   The dg-publish setting tells the plugin that this note should be published to your digital garden. Notes without this setting will not be published. (In other terms: Every note you publish will need this setting.)
 
-[[EIC.excalidraw\|EIC.excalidraw]]
+[[EIC.excalidraw\|EIC Drawing]]
