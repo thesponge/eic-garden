@@ -3,6 +3,8 @@
 ---
 
 
+
+```
 Am                   Dm
 Chiar ieri am văzut un vultur murind
 G                       C
@@ -29,3 +31,4 @@ Un zid se ridică acum între noi
 Deşi n-am uitat tot ce-a fost între noi
 
 Refren.
+```
