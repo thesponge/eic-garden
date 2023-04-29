@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/one/jekyll-patch/"}
+{"dg-publish":true,"permalink":"/one/jekyll-patch/","noteIcon":""}
 ---
 
 ```ruby
