@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/three/vulturul/"}
+{"dg-publish":true,"permalink":"/three/vulturul/","noteIcon":""}
 ---
 
 
